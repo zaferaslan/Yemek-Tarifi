@@ -1,3 +1,3 @@
 # Yemek-Tarifi
 
-![Img](https://www.hizliresim.com/4ipd8xu)
+![Img](/img/kori_soslu_tavuk.jpg)
